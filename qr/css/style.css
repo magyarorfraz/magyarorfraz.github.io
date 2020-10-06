@@ -1,0 +1,121 @@
+.heading {
+    font-weight: 700;
+    color: #5d4267;
+  }
+  .card.colorful-card .testimonial-card .card-up {
+    height: 95px;
+  }
+  .card.colorful-card .testimonial-card .avatar {
+    border: 3px solid #fff !important;
+  }
+  .card.booking-card {
+    background-color: #c7f2e3;
+  }
+  .card.booking-card .fa {
+    color: #f7aa00;
+  }
+  .card.booking-card .card-body .card-text {
+    color: #db2d43;
+  }
+  .card.card.booking-card .chip {
+    background-color: #87e5da;
+  }
+  .card.booking-card .card-body hr {
+    border-top: 1px solid #f7aa00;
+  }
+  .mimosa {
+    background-color: #F0C05A;
+  }
+  .fuchsia-rose-text {
+    color: #db0075;
+  }
+  .aqua-sky-text {
+    color: #5cc6c3;
+  }
+  .mimosa-text {
+    color: #F0C05A;
+  }
+  .list-inline-item .fas, .list-inline-item .far {
+    font-size: .8rem;
+  }
+  .chili-pepper-text {
+    color: #9B1B30;
+  }
+  .collapse-content .fa.fa-heart:hover {
+    color: #f44336 !important;
+  }
+  .collapse-content .fa.fa-share-alt:hover {
+    color: #0d47a1 !important;
+  }
+  .card-wrapper.card-action {
+    min-height: 400px;
+  }
+  .card-title {
+    margin-bottom: 0.75rem;
+    color: white !important;
+  }
+  .card-title-sub {
+    margin-bottom: 0.75rem;
+    color: white !important;
+    opacity: 0.75;
+  }
+  .avatar-logo {
+    margin-bottom: 0.75rem;
+    height: 125px;
+    width: 125px;
+  }
+
+  .bg-javipa {
+    background-color:rgb(15, 98, 175) !important;
+  }
+
+  .border-top {
+    border-top: 1px solid #dee2e6 !important;
+    opacity: 0.75 !important;
+  }
+  
+  .border-right {
+    border-right: 1px solid #dee2e6 !important;
+    opacity: 0.75 !important;
+  }
+  
+  .border-bottom {
+    border-bottom: 1px solid #dee2e6 !important;
+    opacity: 0.75 !important;
+  }
+  
+  .border-left {
+    border-left: 1px solid #dee2e6 !important;
+    opacity: 0.75 !important;
+  }
+
+  .fa-lg {
+    opacity: 0.75 !important;
+  }
+
+  .map-container-6 {
+    overflow:hidden;
+    padding-bottom:100%;
+    position:relative;
+    height:75%;
+    width:100%;
+    }
+    .map-container-6 iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+    .btn-primary-javipa {
+      color: #fff;
+      background-color:rgb(15, 98, 175);
+      border-color: rgb(15, 98, 175);
+    }
+
+    .btn-link-javipa {
+      font-weight: 400;
+      color:rgb(15, 98, 175);
+      text-decoration: none;
+    }
