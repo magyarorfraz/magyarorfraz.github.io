@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//QR-Code-Generator.com//EN
+PRODID:-//www.javipa.hu//EN
 N:Dunstan-Such;Gabriella;;;
 FN:Gabriella Dunstan-Such
 ORG:Javipa Nyomdaipari Kft.;
@@ -8,7 +8,7 @@ TITLE:ügyvezető
 EMAIL;TYPE=PREF,e-mail :such.gabi@javipa.hu
 TEL;TYPE=CELL,voice:+36303276504
 TEL;TYPE=WORK,voice:+3666528233
-TEL;TYPE=WORK,fax:+36 66 528 230
+TEL;TYPE=WORK,fax:+3666528230
 ADR;TYPE=WORK;type=pref:;;Kazinczy u. 7.;Békéscsaba;;5600;Magyarország
 URL:www.javipa.hu
 
