@@ -1,0 +1,105 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Titillium Web', sans-serif;
+	color: #fff;
+}
+#home {
+	background: url("../img/mic_bg.jpg") no-repeat ;
+	display: table;
+	height: 100%;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.landing-text {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+h1 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 700%;
+	line-height: .9;
+}
+h3 {
+	font-size: 260%;
+	font-weight: 500;
+	line-height: 1.2;
+}
+.btn-default {
+	background-color: #FFF;
+	color: #36342F;
+	font-size: 160%;
+}
+.btn-default:hover {
+	color: #FFF;
+	background-color: #36342F;
+}
+p {
+	color: #fff;
+	padding: 3%;
+}
+
+@media (max-width: 768px) {
+	h1 {
+		font-size: 350%;
+	}
+	h3 {
+		font-size: 150%;
+	}
+	.btn-default {
+		font-size: 120%;
+	}
+}
+
+.overlay-div{
+	display: table;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:100%;
+	width: 100%;
+	background-color: rgb(28,44,91,0.7);
+ }
+
+.social-links {
+	margin-top: 20px;
+  }
+  
+.social-links a {
+	font-size: 16px;
+	display: inline-block;
+	color: #fff;
+	line-height: 1;
+	padding-top: 16px;
+	margin: 0 3px;
+	border-radius: 50%;
+	text-align: center;
+	width: 48px;
+	height: 48px;
+	transition: 0.3s;
+	border: 1px solid rgba(108,171,221,0.5);
+  }
+  
+.social-links a:hover {
+	background: #6CABDD;
+	border-color:#6CABDD;
+  }
+
+  .text-link a:hover {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 700%;
+	line-height: .9;
+}
+
+
+
+
+
+
+
+
